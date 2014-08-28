@@ -1,0 +1,203 @@
+.g_norepeat{
+	background: url(../images/g_norepeat.png) no-repeat;
+}
+.g_about{
+	background: url(../images/g_aboutUP.png) no-repeat;
+}
+body{
+	background:url(../images/g_bodyGround.png) repeat;
+}
+.g_out{
+	width: 980px;
+	margin: 0 auto;
+}
+.g_leftCon{
+	width: 688px;
+	float: left;
+}
+.g_first{
+	width: 688px;
+	height: 132px;
+	border-bottom: 4px solid #ffa18f;
+	
+}
+.g_first h1{
+	width: 688px;
+	height: 70px;
+	line-height: 110px;
+	font-size: 12px;
+	text-indent: 12px;
+}
+.g_first h1 p{
+	width: 32px;
+	height: 32px;
+	float: left;
+	margin-top: 38px;
+	/*display: inline;*/
+	background-position: 0 0;
+}
+.g_first strong{
+	width: 688px;
+	height: 62px;
+	display: inline;
+	font-size: 20px;
+	line-height: 80px;
+}
+.g_mid{
+	height: 1420px;
+}
+.g_mid strong{
+	margin-top: 32px;
+	display: block;
+	font-size: 20px;
+}
+.g_pic{
+	height: 200px;
+	border-bottom: 4px solid #ffa18f;
+	position: relative;
+}
+.g_pic h1{
+	width: 39px;
+	height: 39px;
+	background-position: 0 -96px;
+	cursor: pointer;
+	position: absolute;
+	left: 0;
+	top: 35px;
+}
+.g_pic h2{
+	width: 39px;
+	height: 39px;
+	background-position: -39px -96px;
+	cursor: pointer;
+	position: absolute;
+	right: 0;
+	top: 35px;
+}
+.g_tab li{
+	width: 255px;
+	margin-left: 58px;
+	list-style: none;
+	float: left;
+	display: inline;
+}
+.g_img{
+	text-align: center;
+}
+.g_pic ul li dt img{
+	width:254px;
+	height: 129px;
+}
+.g_rightCon{
+	width: 250px;
+	height: 1935px;
+	float: left;
+	margin-left: 32px;
+	display: inline;
+}
+.g_top{
+	height: 132px;
+	border-bottom: 4px solid #ffa18f;
+	text-indent: 10px;
+}
+.g_top p{
+	width: 25px;
+	height: 25px;
+	margin-top: -130px;
+	margin-left: 210px;
+	background-position: -40px 0;
+}
+.g_news{
+	color: red;
+	text-align: left;
+	line-height: 230px;
+	font-size: 20px;
+}
+.g_right li{
+	height: 40px;
+	text-indent: 8px;
+}
+.g_right1{
+	height: 235px;
+}
+.g_right2{
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	border-bottom:  4px solid #ffa18f;
+}
+.g_right li p{
+	width: 24px;
+	height: 24px;
+	margin-top: 10px;
+	float: left;
+	display: inline;
+	background-position: -35px -42px; 
+}
+.g_right li a{
+	width: 200px;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+	float: left;
+}
+.g_trade{
+	color: red;
+	/*line-height: 90px;*/
+	font-size: 20px;
+}
+.g_right ul li a{
+	font-size:14px;
+}
+.g_background{
+	width: 25px;
+	height: 25px;
+	margin-top: -34px;
+	margin-left: 210px;
+	background-position: -40px 0;
+}
+.g_bottom{
+	height: 18px;
+	display: block;
+	border-bottom: 4px solid #ffa18f;
+}
+.g_goDown{
+	width: 25px;
+	height: 33px;
+	margin-top: 20px;
+	margin: 0 auto;
+	cursor: pointer;
+	background-position: -64px -33px;
+}
+.g_goTop{
+	width: 25px;
+	height: 33px;
+	margin-top: 20px;
+	margin: 0 auto;
+	cursor: pointer;
+	background-position: -93px -33px;
+}
+.g_content{
+	line-height: 25px;
+}
+.g_paragraph{
+	margin-top: 40px;
+}
+/*另一个网页*/
+.g_mid h1{
+	font-size: 18px;
+	font-weight: bolder;
+	margin-top: 33px;
+}
+.g_mid li{
+	line-height: 35px;
+}
+.g_mid h2{
+	display: inline-block;
+	width: 68px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	margin-top: 22px;
+	background: url(../images/g_back.jpg) no-repeat;
+}

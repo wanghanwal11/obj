@@ -1,0 +1,51 @@
+
+					<div class="y_rightCommon y_teachNews">
+						<div class="y_title">
+							<p class="fl tt">技术新闻</p>
+							<a class="y_norepeat fr more" href="aboutNewList.html"></a>
+						</div>
+						<ul class="y_content">
+							<li><span class="y_norepeat">1</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">2</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">3</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">4</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">5</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+						</ul>
+					</div>
+					<div class="y_rightCommon y_dynamics">
+						<div class="y_title">
+							<p class="fl tt">行业动态</p>
+							<a class="y_norepeat fr more" href="aboutNewList.html"></a>
+						</div>
+						<ul class="y_content y_contentAnimate">
+							<li><span class="y_norepeat">1</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">2</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">3</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">4</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">5</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">6</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">7</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+							<li><span class="y_norepeat">8</span><a class="elip" href="aboutNewList.html">就业高峰即将到来 高校生应提前校生应提</a></li>
+						</ul>
+						<div class="y_slide"></div>
+					</div> 
+					<script>
+						/*下拉菜单*/
+		var f = 0;
+		$(".y_mainRight .y_rightCommon .y_slide").click(function(){
+			if(f == 0){
+				$('.y_mainRight .y_rightCommon .y_contentAnimate').animate({
+                  height: 300
+                }, 450)
+                $(".y_mainRight .y_rightCommon .y_slide").addClass("cur")
+				f=1;
+				
+			}else{
+				$('.y_mainRight .y_rightCommon .y_contentAnimate').animate({
+                  height: 190
+                }, 450)
+                 $(".y_mainRight .y_rightCommon .y_slide").removeClass("cur")
+				f=0;
+			}
+		})
+					</script>

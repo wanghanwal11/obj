@@ -1,0 +1,162 @@
+.s_header{
+		width:100%;
+		height: 114px;
+		background-color: #2753aa;
+	}
+	.s_aboutus{
+		width: 35px;
+		height: 35px;
+		margin-left: 150px;
+		margin-top: 38px;
+		float: left;
+		background-image: url(../images/zuhe.gif);
+		background-position: 3px 3px;
+	}
+	.s_aboutustext
+	{
+		width: 135px;
+		height: 20px;
+		float: left;
+		margin-left: 23px;
+	
+		margin-top: 45px;
+		color: #2753aa;
+		font-size: 12px;
+	}
+	p{
+		overflow: hidden;
+		width:980px;
+		margin:0 auto;
+		font-size: 30px;
+
+	}
+	hr{
+		width: 955px;
+		height: 2px;
+		background-color: #ffa18f;
+		margin:0 auto;
+	}
+	.s_lunbo{
+		width: 970px;
+		margin: 0 auto;
+		overflow: hidden;
+		position: relative;
+	}
+.s_goleft{
+	position: absolute;
+	background-image: url(../images/huanjingdatu.gif);
+	background-position: 3px 5px;
+	
+	margin-top: 150px;
+	width: 50px;
+	height: 50px;
+	margin-left: 30px;
+	line-height: 50px;
+	cursor: pointer;
+}
+.s_goright{
+	position: absolute;
+	background-image: url(../images/huanjingdatu.gif);
+	background-position: -40px 5px;
+	
+	margin-top: 150px;
+	
+	width: 50px;
+	height: 50px;
+	margin-left: 900px;
+	line-height: 50px;
+	cursor: pointer;
+}
+	
+	.s_content1{
+		width: 967px;
+		height: 350px;
+		margin: 0 auto;
+		margin-top: -20px;
+
+	}
+	dl{
+		width: 232px;
+		height: 150px;
+		float: left;
+		margin-left: 7px;
+		margin-top: 10px;
+
+	}
+	dt{
+		margin-left: 2px;
+	}
+	.s_clickgun{
+		width: 275px;
+		height: 45px;
+		margin: 0 auto 50px;
+		
+	}
+	.s_clickgun li{
+		width: 32px;
+		height: 40px;
+		margin-left: 6px;
+		background-image: url(../images/huanjingdatu.gif);
+		float: left;
+
+	}
+	.s_li1{
+		background-position: -8px -40px;
+		width: 10px;
+		height: 20px;
+		margin-top: 10px;
+	}
+	.s_li2{
+		background-position: 2px -66px;
+		height: 30px;
+		margin-top: 5px;
+	}
+	.s_li3{
+		background-position: 2px -95px;
+		height: 25px;
+		margin-top: 10px;
+	}
+	.s_li4{
+		background-position: 2px -120px;
+		height: 25px;
+		margin-top: 10px;
+	}
+	.s_li5{
+		background-position: 4px -145px;
+		height: 25px;
+		margin-top: 10px;
+	}
+	.s_li6{
+		background-position: -20px -40px;
+		width: 10px;
+		height: 20px;
+		margin-top: 10px;
+	}
+	.s_foot{
+		width: 100%;
+		height: 380px;
+		background-color: #1e1c1c;
+	}
+	/*.huanjing{
+		width: 959px;
+		height: 350px;
+
+	}*/
+	.s_ull{
+		width: 2000px;
+		height: 350px;
+	}
+	.s_li7{
+		width: 958px;
+		height: 350px;
+		
+	}
+	.add5{
+		background: red;
+		border: 1px solid blue;
+	}
+	
+	.y_flipSheet{
+		width:980px;
+		border:0;
+	}

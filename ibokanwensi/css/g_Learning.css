@@ -1,0 +1,401 @@
+.g_norepeat{
+	background: url(../images/g_Learning.png) no-repeat;
+}
+body{
+	background:#272e3a;
+}
+.g_outer{
+	margin: 0 auto;
+	width: 980px;
+	height: 2945px;
+}
+.g_head{
+	width: 980px;
+	height: 115px;
+	line-height: 115px;
+	padding-left: 10px;
+	position: relative;
+	border-bottom: 3px solid #434044;
+	/*z-index: -1;*/
+}
+.g_head p{
+	width: 31px;
+	height: 31px;
+	float: left;
+	margin-top: 40px;
+	background-position: 0 0;
+}
+.g_head span{
+	text-indent: 30px;
+	color: white;
+}
+.g_title{
+	width: 286px;
+	height: 30px;
+	font-size: 30px;
+	line-height: 30px;
+	color: white;
+	text-align: center;
+	position: absolute;
+	left: 350px;
+	top: 97px;
+	/*z-index: 2;*/
+	background:#272e3a;
+}
+.g_second{
+	height: 915px;
+	position: relative;
+	border-bottom: 3px solid #434044;
+}
+.g_pic dl{
+	margin-top: 50px;
+	margin-left: 10px;
+	width: 275px;
+	color: white;
+	float: left;
+	text-align: center;
+}
+.g_pic dl dt{
+	width: 275px;
+	height: 150px;
+	background: #20212d;
+}
+dd,p{
+	margin-top: 30px;
+}
+.g_pic dl dt img{
+	padding-top: 10px;
+}
+.g_pic dl h6{
+	width: 68px;
+	height: 30px;
+	line-height: 30px;
+	display: inline-block;
+	margin-top: 35px;
+	background-position: -62px 0px; 
+}
+/*第三部分*/
+.g_third{
+	width: 980px;
+	height: 595px;
+	margin-top: 40px;
+	position: relative;
+	border-bottom: 3px solid #434044;
+}
+.g_big{
+	width: 960px;
+	height: 350px;
+	overflow: hidden;
+	position: relative;
+}
+.g_In{
+	width: 3840px;
+	height: 350px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.g_big h1{
+	width: 39px;
+	height: 39px;
+	display: inline-block;
+	cursor: pointer;
+	position:absolute;
+	top: 157px;
+	left: 20px;
+	background-position: -147px -40px;
+}
+.g_big img{
+	width: 960px;
+	height: 350px;
+}
+.g_big h2{
+	width: 39px;
+	height: 39px;
+	display: inline-block;
+	cursor: pointer;
+	position:absolute;
+	top: 157px;
+	right: 20px;
+	background-position: -140px 0;
+}
+.g_oLis li{
+	width: 240px;
+	height: 160px;
+	float: left;
+	position: relative;
+}
+.g_oLis img{
+	width: 240px;
+	height: 160px;
+}
+.g_oLis li div{
+	width: 240px;
+	height: 160px;
+	display: none;
+}
+.g_oShow{
+	width: 240px;
+	height: 160px;
+	background: black;
+	opacity: 0.5;
+}
+/*第四部分*/
+.g_fourth{
+	height: 890px;
+	margin-top: 40px;
+	color: white;
+	position: relative;
+	border-bottom: 3px solid #434044;
+}
+.g_fourth h1{
+	width: 32px;
+	height: 53px;
+	display: inline-block;
+	position:absolute;
+	cursor: pointer;
+	top: 357px;
+	left: 0px;
+	background-position: -107px -30px;
+}
+.g_fourth h2{
+	width: 32px;
+	height: 53px;
+	display: inline-block;
+	position:absolute;
+	cursor: pointer;
+	top: 357px;
+	right: 30px;
+	background-position: -72px -30px;
+}
+.g_imgs dl{
+	width: 297px;
+	text-align: center;
+	float: left;
+	margin-right: 30px;
+}
+.g_imgs dl dd{
+	margin-top: 25px;
+}
+#g_imgs dl dt img,#g_imgsBottom dl dt img{
+	width: 297px;
+	height: 296px;
+}
+
+/*底部*/
+.g_bottom ul{
+	width: 380px;
+	padding-left: 10px;
+	margin-top: 75px;
+	color: white;
+	float: left;
+}
+.g_bottom ul li{
+	line-height: 30px;
+}
+.g_bottom ul li span{
+	margin-right: 18px;
+}
+
+.g_bottom ul li a{color:#FFF;}
+
+/*关于我们*/
+.g_about{
+	background: url(../images/g_aboutUP.png) no-repeat;
+}
+.g_aboutUP{
+	margin: 0 auto;
+	width: 980px;
+	height: 2915px;
+	color: white;
+}
+.g_project{
+	width: 960px;
+	height: 110px;
+	line-height: 110px;
+	font-size: 20px;
+	position: relative;
+}
+.g_line{
+	width: 980px;
+	height: 0;
+	border-top: 1px solid #3679ff;
+	border-bottom: 1px solid #16326a;
+	position: absolute;
+	left: -10px;
+	bottom: 0;
+}
+.g_project h1{
+	width: 31px;
+	height: 31px;
+	float: left;
+	background-position: -108px -100px;
+	margin: 38px 10px;
+}
+/*第二部分*/
+.g_introduction{
+	color: white;
+	height: 282px;
+	padding-left: 10px;
+	position: relative;
+}
+.g_rodrigo{
+	width: 285px;
+	height: 30px;
+	font-size: 30px;
+	text-align: center;
+	line-height: 30px;
+	position: absolute;
+	left: 347px;
+	top: -75px;
+	background:#2853ab; 
+}
+.g_introduction h1{
+	font-size: 25px;
+	margin-top: 58px;
+}
+.g_content{
+	width: 550px;
+	height: 150px;
+	float: left;
+	/*border:1px solid red;*/
+}
+.g_introduction ul{
+	float: left;
+	margin-top: -190px;
+	margin-left: 580px;
+}
+.g_content span{
+	width: 68px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	margin-top: 35px;
+	display: block;
+	background-position: -139px -103px;
+}
+/*第三部分*/
+.g_honor{
+	height: 770px;
+	margin-top: 58px;
+	position: relative;
+	padding-left: 10px;
+}
+.g_honor ul{
+	float: left;
+}
+.g_honor ul dl{
+	text-align: center;
+}
+.g_honor dt{
+	width: 260px;
+	height: 138px;
+	padding-left: 6px;
+	padding-top: 6px;
+	background: #212842;
+}
+.g_branch{
+	position: absolute;
+	left: 285px;
+	top: 0;
+	z-index: -20;
+}
+.g_honorImg2{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+.g_honorImg3{
+	margin-left: 680px;
+	margin-top: -440px;
+}
+.g_honorImg4{
+	margin-left: 629px;
+	margin-top: 110px;
+}
+.g_news{
+	height: 220px;
+	margin-top: 58px;
+	padding-left: 10px;
+	position: relative;
+}
+.g_advantage{
+	height: 400px;
+	padding-left: 10px;
+	margin-top: 58px;
+	position: relative;
+}
+.g_advantage li{
+	width: 170px;
+	float: left;
+	margin-left: 90px;
+	line-height: 25px;
+}
+.g_advantage li dl dt{
+	margin:0 20px;
+}
+.g_advantage li dl p{
+	text-align: left;
+	font-size: 15px;
+}
+.g_advantage li dl span{
+	display: inline-block;
+	margin-left: 0px;
+	font-size: 15px;
+}
+.g_advantage dd{
+	font-size: 25px;
+	text-align: center;
+}
+.g_environment{
+	height: 580px;
+	padding-left: 10px;
+	margin-top: 58px;
+	position: relative;
+}
+.g_environment ul li{
+	float: left;
+}
+.g_students{
+	margin-top: 58px;
+	padding-left: 10px;
+	position: relative;
+}
+.g_students img{
+	width: 118px;
+	height: 119px;
+}
+.g_students dl{
+	margin-left: 45px;
+	float: left;
+	position: relative;
+}
+.g_students dt{
+	width: 118px;
+	height: 119px;
+	
+}
+.g_last{
+	width: 118px;
+	height: 119px;
+	position: absolute;
+	top: -30px;
+	left: 0px;
+}
+.g_last div{
+	width: 118px;
+	height: 119px;
+	background: black;
+	opacity: 0.5;
+	display: none;
+}
+.g_last a{
+	width: 32px;
+	height: 35px;
+	display: inline-block;
+	background-position: -34px -30px;
+	position: absolute;
+	top: 42px;
+	left: 40px;
+	display: none;
+	cursor: pointer;
+}

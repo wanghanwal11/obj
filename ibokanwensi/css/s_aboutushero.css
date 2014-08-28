@@ -1,0 +1,135 @@
+*{
+		margin: 0px;
+		padding: 0px;
+	}
+	
+	.s_header{
+		width:100%;
+		height: 114px;
+		background-color: #2753aa;
+	}
+	.s_aboutus{
+		width: 35px;
+		height: 35px;
+		
+		margin-left: 270px;
+		margin-top: 38px;
+		float: left;
+		background-image: url(../images/zuhe.gif);
+		background-position: 3px 3px;
+	}
+	.s_aboutustext
+	{
+		width: 135px;
+		height: 20px;
+		float: left;
+		margin-left: 23px;
+		margin-top: 45px;
+		color: #2753aa;
+		font-size: 12px;
+	}
+	p{
+		overflow: hidden;
+		width: 1500px;
+		margin-left: 270px;
+		font-size: 30px;
+
+	}
+	hr{
+		width: 970px;
+		height: 2px;
+		background-color: #ffa18f;
+		margin:0 auto;
+	}
+
+	.s_content1{
+		width: 490px;
+		
+		float: left;
+		
+		
+	}
+	.s_content2{
+		width: 490px;
+	
+		float: left;
+			
+	}
+	.s_xuemanzi1{
+		height: 530px;
+		width: 490px;
+	
+	}
+	.s_year{
+		width: 73px;
+		height: 36px;
+		margin-top: 102px;
+		float: right;
+		margin-right: 70px;
+	}
+	.s_xuemanzizhuce{
+		width: 490px;
+		height: 284px;
+		float: left;
+		margin-top: 60px;
+		margin-left: -120px;
+	}
+	h3{
+		margin-left: 120px;
+		padding-bottom: 50px;
+	}
+	dl{
+		margin-left: 120px;
+
+	}
+
+	 dd{
+		margin-left: 50px;
+
+	}
+	h4{
+		float: right;
+		margin-right: 20px;
+		margin-top: 60px;
+	}
+	li{
+		float: right;
+	}
+	.s_clear{
+		clear: both;
+		margin-right: 80px;
+	}
+	.s_content{
+		width: 980px;
+		margin: 0 auto;
+
+	}
+	.s_left{
+		float: left;
+		margin-left: 80px;
+	}
+	.s_top{
+		margin-top: 250px;
+		float: left;
+		margin-left: 80px;
+	}
+	.s_foot{
+		width: 100%;
+		height: 382px;
+		background-color: #1a1818;
+		clear: both;
+		margin-top: 10px;
+	}
+	img{
+		border: 10px solid #44444e;
+	}
+	.s_content{
+		width: 980px;
+		
+		background-image: url(../images/xianlu.jpg);
+		z-index: 3;
+		background-repeat: no-repeat;
+
+
+
+	}

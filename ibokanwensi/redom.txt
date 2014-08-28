@@ -1,0 +1,52 @@
+
+-----王晗篇------
+
+---html---
+emStuList  ----------  4（1-1）.就业-就业学员
+emStuListInfo  ----------  4（1-1）.就业-就业学员-详情
+employ ----------  4.就业
+actualProject----------  5.实战
+----css-----
+w_***
+gnorepeat---大背景图名字
+
+-----高中孝篇------
+---html---
+emActListInfo  ----------  4（2）.就业-就业活动列表-详情
+emRecListInfo  ----------  4（3）.就业-招聘信息列表
+Learning  ----------  6.学习园地
+aboutUp  ----------  7.关于我们
+----css-----
+g_***
+gnorepeat---大背景图名字
+
+-----张彬华篇------
+---html---
+teacherInfo  ----------  3(1).HTML5讲师详情
+teacherList  ----------  3.HTML5讲师列表
+emGreatStuListInfo   ----------  4（1-1）.就业-优秀学员详情
+emActList  ----------  4（2）.就业-就业活动列表
+----css-----
+z_***
+znorepeat---大背景图名字
+
+-----孙乐磊篇------
+---html---
+project  ----------   2.项目
+aboutNewList  ----------   7(3).关于我们-新闻列表
+aboutNewListInfo  ----------   7(3).关于我们-新闻列表-详情
+aboutComEnvir  ----------   7(4）.关于我们-公司环境
+aboutComHonor  ----------   7(5）.关于我们-公司荣誉
+----css-----
+s_***
+snorepeat---大背景图名字
+-----闫园园篇------
+---html---
+index   --------------   首页
+emRecListInfomation  ----------   4（3）.就业-招聘信息列表－详情
+projectList  ----------   5（1）.项目列表
+projectListInfo  ----------   5（1-1）.项目列表-详情
+aboutComIntro  ----------   7(1).关于我们-公司简介
+----css-----
+y_***
+ynorepeat---大背景图名字
